@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coins
+  - Sword
+  - Fire
+  - block
+  - Water
+  - Ground
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitBox
+  - EnemyHitBox
+  - GroundDetection
+  - triggerer
+  - coins
+  - TileBar
+  - Pickup
+  - fire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2744047463
+    locked: 0
+  - name: player
+    uniqueID: 862185333
+    locked: 0
+  - name: tiles
+    uniqueID: 2862793743
+    locked: 0
+  - name: enemy
+    uniqueID: 4245393969
+    locked: 0
